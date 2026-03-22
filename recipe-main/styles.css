@@ -1,0 +1,32 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: cornsilk;
+}
+
+.recipes {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: darkgreen;
+}
+
+.highlight {
+    background-color: lightyellow;
+}
+
+.steps#first {
+    font-weight: bold;
+    color: red;
+}
+
+ol #first {
+    background-color: lightgray;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border: 3px solid black;
+}
